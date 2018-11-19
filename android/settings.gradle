@@ -1,0 +1,3 @@
+rootProject.name = 'AttendanceSystem'
+
+include ':app'

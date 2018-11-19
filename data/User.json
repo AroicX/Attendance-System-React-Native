@@ -1,0 +1,26 @@
+[
+  {
+    "rollNumber": "100",
+    "pin": "1234",
+    "email": "",
+    "mobile": "01683738728",
+    "password": "1234",
+    "acorId": 2
+  },
+  {
+    "rollNumber": "101",
+    "pin": "1234",
+    "email": "",
+    "mobile": "01686428005",
+    "password": "1234",
+    "acorId": 2
+  },
+  {
+    "rollNumber": "102",
+    "pin": "1234",
+    "email": "",
+    "mobile": "01947341783",
+    "password": "1234",
+    "acorId": 2
+  }
+]
